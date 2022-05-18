@@ -1,3 +1,19 @@
 .title {
-    font-size: 40px;
+  font-size: 50px;
+}
+
+.desc {
+  font-style: italic;
+}
+
+.bg-muffin {
+  background-color: #ffdedf;
+}
+
+.bg-hummus {
+  background-color: #def1ff;
+}
+
+.bg-tao {
+  background-color: #ffdcbb;
 }
